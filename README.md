@@ -1,8 +1,8 @@
 <html>
   <head>
-    <title>readme</title>
+    <h1> welcome to the readme </h1>
   </head>
   <body>
-    <h1> haha no info! </h1>
+    <h2> haha no info! </h2>
   </body>
 </html>
